@@ -1,6 +1,6 @@
-package com.narbase.narcore.dto.models.roles
+package com.narbase.dasma.dto.models.roles
 
-import com.narbase.narcore.dto.common.IdDto
+import com.narbase.dasma.dto.common.IdDto
 
 typealias PrivilegeName = String
 

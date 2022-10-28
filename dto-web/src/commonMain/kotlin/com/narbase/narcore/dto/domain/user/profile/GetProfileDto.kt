@@ -1,4 +1,4 @@
-package com.narbase.narcore.dto.domain.user.profile
+package com.narbase.dasma.dto.domain.user.profile
 
 /*
  * Copyright 2017-2020 Narbase technologies and contributors. Use of this source code is governed by the MIT License.

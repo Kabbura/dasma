@@ -7,6 +7,5 @@ currentMigrationVersion
 currentPid
 lastFailedAppVersion
 temp_err.log
-/web/
 remoteClinicsBackups/
 log/

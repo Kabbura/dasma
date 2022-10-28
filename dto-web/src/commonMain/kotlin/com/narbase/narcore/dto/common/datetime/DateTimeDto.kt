@@ -1,4 +1,4 @@
-package com.narbase.narcore.dto.common.datetime
+package com.narbase.dasma.dto.common.datetime
 
 
 /***

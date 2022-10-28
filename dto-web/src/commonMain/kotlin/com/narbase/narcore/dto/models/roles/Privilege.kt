@@ -1,6 +1,6 @@
-package com.narbase.narcore.dto.models.roles
+package com.narbase.dasma.dto.models.roles
 
-import com.narbase.narcore.dto.common.EnumDtoName
+import com.narbase.dasma.dto.common.EnumDtoName
 
 /*
  * Copyright 2017-2020 Narbase technologies and contributors. Use of this source code is governed by the MIT License.

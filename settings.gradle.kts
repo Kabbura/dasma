@@ -1,6 +1,6 @@
-rootProject.name = "narcore"
+rootProject.name = "dasma"
 
-include(":narcore-server")
-include(":narcore-web")
+include(":server")
+include(":web")
 include(":dto-web")
 

@@ -1,4 +1,4 @@
-package com.narbase.narcore.dto.common
+package com.narbase.dasma.dto.common
 
 import kotlin.jvm.JvmInline
 
